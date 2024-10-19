@@ -1,0 +1,8 @@
+C:\Users\Laura\source\repos\acceso a hardware y SO\acceso a hardware y SO\bin\Debug\acceso a hardware y SO.pdb
+C:\Users\Laura\source\repos\acceso a hardware y SO\acceso a hardware y SO\bin\Debug\System.CodeDom.dll
+C:\Users\Laura\source\repos\acceso a hardware y SO\acceso a hardware y SO\bin\Debug\System.CodeDom.xml
+C:\Users\Laura\source\repos\acceso a hardware y SO\acceso a hardware y SO\obj\Debug\acceso a hardware y SO.csproj.AssemblyReference.cache
+C:\Users\Laura\source\repos\acceso a hardware y SO\acceso a hardware y SO\obj\Debug\acceso a hardware y SO.csproj.CoreCompileInputs.cache
+C:\Users\Laura\source\repos\acceso a hardware y SO\acceso a hardware y SO\obj\Debug\acceso a.24FEE702.Up2Date
+C:\Users\Laura\source\repos\acceso a hardware y SO\acceso a hardware y SO\obj\Debug\acceso a hardware y SO.dll
+C:\Users\Laura\source\repos\acceso a hardware y SO\acceso a hardware y SO\obj\Debug\acceso a hardware y SO.pdb

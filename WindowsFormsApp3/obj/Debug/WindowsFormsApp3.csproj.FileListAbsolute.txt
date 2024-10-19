@@ -1,0 +1,26 @@
+C:\Users\Laura\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\Laura\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\Laura\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\Laura\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\acceso a hardware y SO.dll
+C:\Users\Laura\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\acceso a hardware y SO.pdb
+C:\Users\Laura\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+C:\Users\Laura\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\Laura\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Laura\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\Laura\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\Laura\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsF.90B8DF9B.Up2Date
+C:\Users\Laura\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\Laura\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\Laura\source\repos\acceso a hardware y SO\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\Laura\source\repos\acceso a hardware y SO\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\Laura\source\repos\acceso a hardware y SO\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\Laura\source\repos\acceso a hardware y SO\WindowsFormsApp3\bin\Debug\acceso a hardware y SO.dll
+C:\Users\Laura\source\repos\acceso a hardware y SO\WindowsFormsApp3\bin\Debug\acceso a hardware y SO.pdb
+C:\Users\Laura\source\repos\acceso a hardware y SO\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+C:\Users\Laura\source\repos\acceso a hardware y SO\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\Laura\source\repos\acceso a hardware y SO\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Laura\source\repos\acceso a hardware y SO\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\Laura\source\repos\acceso a hardware y SO\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\Laura\source\repos\acceso a hardware y SO\WindowsFormsApp3\obj\Debug\WindowsF.90B8DF9B.Up2Date
+C:\Users\Laura\source\repos\acceso a hardware y SO\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\Laura\source\repos\acceso a hardware y SO\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
